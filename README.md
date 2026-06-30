@@ -23,9 +23,10 @@ area, margens, termos = classificar(
 
 ## Instalação
 ```bash
-pip install git+https://github.com/reneveloso/texto2area
+pip install texto2area
 python -m spacy download pt_core_news_lg     # modelo de lematização (~568 MB), obrigatório
 ```
+Versão de desenvolvimento (GitHub): `pip install git+https://github.com/reneveloso/texto2area`
 Ou, a partir de um clone: `pip install .`
 
 ## Uso pretendido e domínio de validade
