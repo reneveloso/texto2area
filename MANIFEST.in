@@ -1,0 +1,2 @@
+include LICENSE README.md CITATION.cff
+recursive-include texto2area/data *.joblib *.json
