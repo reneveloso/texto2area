@@ -1,5 +1,10 @@
 # texto2area
 
+[![PyPI](https://img.shields.io/pypi/v/texto2area.svg)](https://pypi.org/project/texto2area/)
+[![Python](https://img.shields.io/pypi/pyversions/texto2area.svg)](https://pypi.org/project/texto2area/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21082954.svg)](https://doi.org/10.5281/zenodo.21082954)
+
 Biblioteca Python que classifica o **título e/ou resumo** de uma tese/dissertação
 brasileira em uma das **9 grandes áreas de avaliação CAPES**, a partir do texto —
 **ponta a ponta**: recebe texto cru em português e faz normalização, lematização,
