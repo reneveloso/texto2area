@@ -8,7 +8,7 @@ abstract: >-
 type: software
 authors:
   - family-names: Veloso
-    given-names: "Renê R."
+    given-names: "Renê Rodrigues"
 version: "0.1.1"
 date-released: "2026-06-30"
 license: MIT

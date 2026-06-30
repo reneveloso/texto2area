@@ -9,7 +9,7 @@ description = "Classifica titulo+resumo de teses/dissertacoes brasileiras na gra
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Renê R. Veloso", email = "rene.veloso@unimontes.br" }]
+authors = [{ name = "Renê Rodrigues Veloso", email = "rene.veloso@unimontes.br" }]
 keywords = ["classificacao de texto", "CAPES", "grandes areas", "pos-graduacao", "PLN", "NLP", "scikit-learn", "portugues"]
 classifiers = [
   "Development Status :: 4 - Beta",
