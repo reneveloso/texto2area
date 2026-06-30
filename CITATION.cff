@@ -9,7 +9,7 @@ type: software
 authors:
   - family-names: Veloso
     given-names: "Renê R."
-version: "0.1.0"
+version: "0.1.1"
 date-released: "2026-06-30"
 license: MIT
 repository-code: "https://github.com/reneveloso/texto2area"

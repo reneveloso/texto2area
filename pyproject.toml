@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "texto2area"
-version = "0.1.0"
+version = "0.1.1"
 description = "Classifica titulo+resumo de teses/dissertacoes brasileiras na grande area de avaliacao CAPES, a partir do texto (portugues)."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -27,6 +27,7 @@ dependencies = [
   "numpy>=1.26,<2.3",
   "scipy>=1.11",
   "spacy>=3.8,<3.9",
+  "click>=8.0",      # o CLI do spaCy (spacy download) importa click; typer recente nao o puxa
 ]
 
 [project.urls]
