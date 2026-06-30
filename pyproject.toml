@@ -9,7 +9,18 @@ description = "Classifica titulo+resumo de teses/dissertacoes brasileiras na gra
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Renê R. Veloso" }]
+authors = [{ name = "Renê R. Veloso", email = "rene.veloso@unimontes.br" }]
+keywords = ["classificacao de texto", "CAPES", "grandes areas", "pos-graduacao", "PLN", "NLP", "scikit-learn", "portugues"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Natural Language :: Portuguese (Brazilian)",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering",
+  "Topic :: Text Processing :: Linguistic",
+]
 dependencies = [
   "scikit-learn==1.8.0",
   "joblib>=1.5",
@@ -17,6 +28,11 @@ dependencies = [
   "scipy>=1.11",
   "spacy>=3.8,<3.9",
 ]
+
+[project.urls]
+Homepage = "https://github.com/reneveloso/texto2area"
+Repository = "https://github.com/reneveloso/texto2area"
+Issues = "https://github.com/reneveloso/texto2area/issues"
 
 # Modelo do spaCy (NAO instala via pip): apos instalar o pacote, rode
 #   python -m spacy download pt_core_news_lg
