@@ -13,9 +13,9 @@ version: "0.1.0"
 date-released: "2026-06-30"
 license: MIT
 repository-code: "https://github.com/reneveloso/texto2area"
+doi: "10.5281/zenodo.21082954"
 keywords:
   - classificacao de texto
   - grandes areas CAPES
   - pos-graduacao brasileira
   - scikit-learn
-# doi: "10.5281/zenodo.XXXXXXX"   # adicionar apos deposito no Zenodo
