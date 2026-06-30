@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se usar este software, por favor cite-o conforme abaixo."
+title: "texto2area: classificacao de teses e dissertacoes brasileiras na grande area CAPES a partir do texto"
+abstract: >-
+  Biblioteca Python que classifica o titulo/resumo de uma tese ou dissertacao
+  brasileira em uma das 9 grandes areas de avaliacao CAPES, a partir do texto
+  (em portugues), de forma ponta a ponta.
+type: software
+authors:
+  - family-names: Veloso
+    given-names: "Renê R."
+version: "0.1.0"
+date-released: "2026-06-30"
+license: MIT
+repository-code: "https://github.com/reneveloso/texto2area"
+keywords:
+  - classificacao de texto
+  - grandes areas CAPES
+  - pos-graduacao brasileira
+  - scikit-learn
+# doi: "10.5281/zenodo.XXXXXXX"   # adicionar apos deposito no Zenodo
