@@ -71,7 +71,7 @@ Ver [`reproduzir/REPRODUCAO.md`](reproduzir/REPRODUCAO.md). O treino é determin
 (`SEED=42`); o corpus (Sucupira) não é redistribuído.
 
 ## Como citar
-Ver [`CITATION.cff`](CITATION.cff). DOI do Zenodo a ser adicionado.
+Ver [`CITATION.cff`](CITATION.cff). DOI (Zenodo, concept): [10.5281/zenodo.21082954](https://doi.org/10.5281/zenodo.21082954).
 
 ## Licença
 [MIT](LICENSE) © 2026 Renê Rodrigues Veloso.
